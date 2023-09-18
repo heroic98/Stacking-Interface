@@ -4,7 +4,7 @@
 
 本代码为Python编写，仅支持Python编辑器调用，代码详细操作说明已在代码文件中各个位置注明。
 
-modelFilePath为所下载模型Stacking-Interface.pickle在用户电脑中的路径，__必填__
+modelFilePath为所下载模型Stacking-Interface.pickle在用户电脑中的路径，__必填__。
 
 用户需要输入 __必填__ 参数：
 震级(MJMA)、震源距(km)、震源深度(km)、场地条件Vs30(m/s)。
