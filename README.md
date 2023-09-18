@@ -4,12 +4,12 @@
 
 本代码为Python编写，仅支持Python编辑器调用，代码详细操作说明已在代码文件中各个位置注明。
 
-modelFilePath为所下载模型Stacking-Interface.pickle在用户电脑中的路径，必填
+modelFilePath为所下载模型Stacking-Interface.pickle在用户电脑中的路径，__必填__
 
-用户需要输入必选参数：
+用户需要输入 __必填__ 参数：
 震级(MJMA)、震源距(km)、震源深度(km)、场地条件Vs30(m/s)。
 
-txtFilePath与curveFilePath分别SA输出文件与衰减曲线文件保存路径，注：用户仅需输入文件夹路径即可，且此项为选填。
+txtFilePath与curveFilePath分别SA输出文件与衰减曲线文件保存路径，注：用户仅需输入文件夹路径即可，且此项为 __选填__。
 
 其余代码为计算代码，用户无须更改
 
