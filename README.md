@@ -11,15 +11,19 @@ modelFilePath为所下载模型Stacking-Interface.pickle在用户电脑中的路
 
 txtFilePath与curveFilePath分别SA输出文件与衰减曲线文件保存路径，注：用户仅需输入文件夹路径即可，且此项为选填。
 
+
 其余代码为计算代码，用户无须更改
 <div align=center>
-<img src="https://github.com/heroic98/Stacking-Interface/assets/57880065/0bb45f15-d683-4352-bda5-8a233bb6f932">
+<img src="https://github.com/heroic98/Stacking-Interface/assets/57880065/65f3fbc6-aa00-4fc7-a12a-801845d270c3">
 </div>
 
 此为所输出PGA与SA数据。
 <div align=center>
-<img src="https://github.com/heroic98/Stacking-Interface/assets/57880065/e095141f-0a3c-46b1-8fe6-228156294653">
+<img src="https://github.com/heroic98/Stacking-Interface/assets/57880065/ec74fca0-714c-49d7-9c2f-e8d122dec9ee">
 </div>
 
+
 此为衰减曲线。
-![image](https://github.com/heroic98/Stacking-Interface/assets/57880065/771523f2-a326-473e-915f-569cd178eec4)
+<div align=center>
+<img src="https://github.com/heroic98/Stacking-Interface/assets/57880065/c341bba4-7dc2-4bbe-9a82-a3a13abb413b">
+</div>
