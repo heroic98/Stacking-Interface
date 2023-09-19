@@ -27,3 +27,8 @@ txtFilePath与curveFilePath分别SA输出文件与衰减曲线文件保存路径
 <div align=center>
 <img src="https://github.com/heroic98/Stacking-Interface/assets/57880065/c341bba4-7dc2-4bbe-9a82-a3a13abb413b">
 </div>
+
+模型输出文件。
+<div align=center>
+<img src="https://github.com/heroic98/Stacking-Interface/assets/57880065/46d219d0-8d2e-48b1-9fc0-c5acd1c91c70">
+</div>
